@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-[Solution](https://fluffykas.github.io/order-summary-component/)
+[Solution](https://5Dreco.github.io/order-summary-component/)
 
 ## My process
 
@@ -44,8 +44,8 @@ Users should be able to:
 
 ### What I learned
 
-I didn't learn anything particularly new but I was incredibly happy to see how much I improved in the past months. This challenge would've been a struggle a while ago. After playing around with Bootstrap and trying out things on my own, I believe I'm finally comfortable with handling images, and make them responsive as well!
+I particularly am learning alot new as we go alongand I was incredibly happy to see how much I improved in the past months. 
 
 ## Author
 
-- Frontend Mentor - [@FluffyKas](https://www.frontendmentor.io/profile/FluffyKas)
+- Frontend Mentor - [@5dreco](https://www.frontendmentor.io/profile/5Dreco)
